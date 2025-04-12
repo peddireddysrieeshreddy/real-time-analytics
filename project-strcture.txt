@@ -1,0 +1,37 @@
+realtime-analytics/
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── .env
+│   └── package-lock.json
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ActiveUsers.js
+│   │   │   ├── PageViewsChart.js
+│   │   │   ├── SessionDurationGauge.js
+│   │   ├── App.js
+│   │   └── ... (other frontend files)
+│   ├── package.json
+│   ├── .env.local
+│   └── package-lock.json
+├── architecture.md
+├── README.mdrealtime-analytics/
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── .env
+│   └── package-lock.json
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ActiveUsers.js
+│   │   │   ├── PageViewsChart.js
+│   │   │   ├── SessionDurationGauge.js
+│   │   ├── App.js
+│   │   └── ... (other frontend files)
+│   ├── package.json
+│   ├── .env.local
+│   └── package-lock.json
+├── architecture.md
+├── README.md
